@@ -1,0 +1,33 @@
+[
+  {
+    "title": "Designing a Maintainable Selenium Framework (POM + BDD)",
+    "date": "2025-07-10",
+    "tags": [
+      "Selenium",
+      "Framework",
+      "BDD"
+    ],
+    "summary": "Decoupling locators, page objects, and test data with reporting baked in.",
+    "url": "#"
+  },
+  {
+    "title": "API Testing at Scale with RestAssured + Jenkins",
+    "date": "2025-06-05",
+    "tags": [
+      "API",
+      "CI/CD"
+    ],
+    "summary": "From smoke to contract tests for microservices with Maven sharding.",
+    "url": "#"
+  },
+  {
+    "title": "Mobile Automation with Appium and pCloudy",
+    "date": "2025-05-14",
+    "tags": [
+      "Mobile",
+      "Appium"
+    ],
+    "summary": "Device-farm friendly architecture and common pitfalls.",
+    "url": "#"
+  }
+]
